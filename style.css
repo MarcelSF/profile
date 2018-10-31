@@ -1,0 +1,146 @@
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+title {
+  text-decoration: underline;
+  font-family: "Slabo 27px",serif;
+}
+
+body {
+  background-image: "images/fire.jpg"
+  font-family: "Open", sans-serif;
+  color: #393e46;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Noto Serif', serif;
+  line-height: 1.6
+  line-height: 1.0;
+}
+
+h2 {
+  font-family: "Slabo 27px",serif;
+}
+
+p {
+  font-family: "Open", sans-serif;
+  color: #393e46;
+
+}
+
+.film {
+  text-decoration: underline;
+}
+
+.site {
+  box-shadow: 4px 0px 13px 6px rgba(0,0,0,0.75);
+  border-radius: 5px;
+  border: 1px solid grey;
+  background-color: #f7f7f7;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
+
+.poster {
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  border-color: orange;
+  border-style: ridge;
+  object-fit: scale-down;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 15pxpx;
+}
+
+.divide {
+  box-shadow: 4px 0px 13px 6px rgba(0,0,0,0.75);
+  border-color: orange;
+  border-style: ridge;
+
+}
+
+.table {
+  box-shadow: 4px 0px 13px 6px rgba(0,0,0,0.75);
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #f8b500;
+  padding-bottom: 15px;
+}
+
+.footer {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #f7f7f7;
+  padding: 10px;
+  border: 1px solid grey;
+}
+
+
+.description {
+  border: 1px solid black;
+  padding: 10px;
+  border-left: 6px solid grey;
+  background-color: lightgrey;
+  background-color: #f7f7f7;
+  font-size: 18px;
+  text-align: center;
+  margin-right: 6px;
+  margin-left: 6px;
+}
+
+button {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.card {
+  box-shadow: 4px 0px 13px 6px rgba(0,0,0,0.75);
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 15px;
+  border: 1px solid grey;
+}
+
+.card_in {
+  box-shadow: 4px 0px 13px 6px rgba(0,0,0,0.75);
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 20px;
+  border: 1px solid grey;
+  text-align: center;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+#max {
+  margin-top: 15px;
+}
